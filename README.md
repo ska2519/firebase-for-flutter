@@ -9,7 +9,7 @@ Firebase 인증으로 사용자를 인증하고 Cloud Firestore를 사용하여 
 
 codelabs walk-through here:
 
-[![Get to know Firebase for Flutter]](https://firebase.google.com/codelabs/firebase-get-to-know-flutter?continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#8)
+[[Get to know Firebase for Flutter]](https://firebase.google.com/codelabs/firebase-get-to-know-flutter?continue=https%3A%2F%2Fcodelabs.developers.google.com%2F#0)
 
 ## Project goals
 
