@@ -1,4 +1,4 @@
-# Get to know Firebase for Flutter
+# Firebase for Flutter
 
 Flutter를 사용하여 **Android, iOS, 웹 및 macOS**에서 **이벤트 RSVP 및 방명록 채팅 앱**을 빌드합니다.
 
